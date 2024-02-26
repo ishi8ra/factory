@@ -1,0 +1,9 @@
+# 依存関係
+node_modules/
+
+# ビルドファイル
+/dist/
+/build/
+/out/
+
+# ローカル環境設定
