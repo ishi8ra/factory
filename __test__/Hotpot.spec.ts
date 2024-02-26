@@ -1,5 +1,5 @@
 import { PizzaStore } from "../src/original/Store/Store";
-import { TokyoPizzaFactory } from "../src/original/Factory/PizzaFactory";
+import { TokyoPizzaFactory } from "../src/original/Factory/TokyoPizzaFactory";
 
 const mockPizza = {
   open: jest.fn(),
